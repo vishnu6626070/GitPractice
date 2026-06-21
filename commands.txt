@@ -1,1 +1,1 @@
-hi welcome to git. this is for commands. this is going to be fun.
+this is where advanced commands are going to written.
