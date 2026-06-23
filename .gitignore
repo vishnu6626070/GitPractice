@@ -1,9 +1,4 @@
-<<<<<<< HEAD
+
 *.txt
 *.log
 temp/
-=======
-secret.txt
-*.log
-temp/
->>>>>>> 88adad1ae64865f6502305683b22c1fe80b96693
